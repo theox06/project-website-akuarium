@@ -80,7 +80,7 @@ body {
 }
 
 img.fish {
-  width: 150px;
+  width: 100px;
   animation: animateFish 5s linear infinite;
 }
 
