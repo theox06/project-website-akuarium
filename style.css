@@ -80,8 +80,9 @@ body {
 }
 
 img.fish {
-  width: 100px;
+  width: 70px;
   animation: animateFish 5s linear infinite;
+  margin-top: 1rem;
 }
 
 @keyframes animateFish {
